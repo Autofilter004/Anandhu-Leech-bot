@@ -82,13 +82,13 @@ class Progress:
                 ''.join([UN_FINISHED_PROGRESS_STR for i in range(20 - math.floor(percentage / 5))]),
                 round(percentage, 2))
             #cpu = "{psutil.cpu_percent()}%"
-            tmp = progress +"│" + "\n**├Total 📀:**   〘<code>{1}</code>〙\n**├Done ✓ :** 〘<code>{0}</code>〙\n**├Speed** 🚀 :  〘<code>{2}/s</code>〙\n**├Time** 🕰️ :  〘<code>{3}</code>〙\n**│**\n**╰── ⌊ @mhd_thanzeer ⌉**".format(
+            tmp = progress +"│" + "\n**├Total 📀:**   〘<code>{1}</code>〙\n**├Done ✓ :** 〘<code>{0}</code>〙\n**├Speed** 🚀 :  〘<code>{2}/s</code>〙\n**├Time** 🕰️ :  〘<code>{3}</code>〙\n**│**\n**╰── ⌊ @Anandhukuttu ⌉**".format(
                 humanbytes(current),
                 humanbytes(total),
                 humanbytes(speed),
                 # elapsed_time if elapsed_time != '' else "0 s",
                 estimated_total_time if estimated_total_time != "" else "0 s",
-            #tmp += "\n│"+"\n╰── ⌊ @mhd_thanzeer ⌉"
+            #tmp += "\n│"+"\n╰── ⌊ @Anandhukuttu ⌉"
             )
             try:
                 if not self._mess.photo:
