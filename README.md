@@ -1,12 +1,10 @@
-![MAXX LEECH V2](https://telegra.ph/file/6824a00f2babc136862cd.jpg)
+![MAXX LEECH V2](https://telegra.ph/file/f48f62bc9d3194c429a85.jpg)
 
 👉 [Orginal Repository](https://t.me/mhd_thanzeer)
 
-![Maxx](https://telegra.ph/file/6824a00f2babc136862cd.jpg)
 
 #<b>Don't Kill Heroku please ☹️</b>
 
-[![MAXX LEECH](https://telegra.ph/file/6824a00f2babc136862cd.jpg)](https://t.me/mhd_thanzeer)
 
 
 
@@ -29,7 +27,7 @@
     ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
     ✓
 
-[![Onwer](https://telegra.ph/file/6824a00f2babc136862cd.jpg)](https://t.me/MaxxRiderz) 👇
+
 
 ##### Mandatory Variables
 
@@ -44,7 +42,7 @@
 * `OWNER_ID`: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
 
-[![Maxx](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)](https://t.me/MaxxBots)
+[![Maxx](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)
 
 ##### Optional Configuration Variables
 
